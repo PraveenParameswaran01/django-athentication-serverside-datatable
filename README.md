@@ -1,1 +1,3 @@
-# django-athentication-serverside-datatable
+# django-athentication
+# serverside-datatable
+# social-auth
